@@ -6,21 +6,21 @@ const Socials = () => {
   return (
     <section className="flex flex-row gap-3">
       <a
-        href="https://github.com/catherineisonline/travel-with-catherine"
+        href="https://github.com/augustine2898/travel-portfolio-"
         target="_blank"
         rel="noopener noreferrer"
       >
         <img className="w-6 h-6	max-w-full" src={Github} alt="Github icon" loading='lazy'/>
       </a>
       <a
-        href="https://www.linkedin.com/in/catherinemitagvaria/"
+        href="https://www.linkedin.com/in/rento-augustine/"
         target="_blank"
         rel="noopener noreferrer"
       >
         <img className="w-6 h-6	max-w-full" src={Linkedin} alt="Linkedin icon" loading='lazy'/>
       </a>
       <a
-        href="https://ekaterine-mitagvaria.vercel.app/"
+        href=""
         target="_blank"
         rel="noopener noreferrer"
       >
